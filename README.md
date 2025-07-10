@@ -35,8 +35,3 @@ Help me build more weird, fast tools:
 
 ---
 
-## 🪪 License
-[MIT](LICENSE) — Free to use, remix, or build on.
-
----
-
