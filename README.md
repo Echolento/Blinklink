@@ -7,7 +7,7 @@ Built for speed, simplicity, and no BS.
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live
 [blinklink.vercel.app](https://blinklink.vercel.app)  
 
 ---
